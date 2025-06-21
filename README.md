@@ -44,7 +44,7 @@ Market sentiment has a strong influence on trading behavior and profitability. U
 
 1. Clone the repo or download the `.ipynb` file.
 2. Run all cells in Jupyter Notebook.
-3. Make sure both CSV files (`trades.csv` and `sentiment.csv`) are in the same directory.
+3. Make sure both CSV files (`historical_data.csv` and `fear_greed_index.csv`) are in the same directory.
 
 ---
 
