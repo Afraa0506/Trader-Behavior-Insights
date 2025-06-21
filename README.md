@@ -9,9 +9,11 @@ This project explores the relationship between **market sentiment** (Fear, Greed
 
 1. **Fear & Greed Index**
    - Columns: `Date`, `Classification` (e.g., Fear, Greed, Neutral, etc.)
+   - [Fear & Greed Index Dataset](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view)
 
 2. **Historical Trader Data**
    - Key columns: `Timestamp IST`, `Coin`, `Size USD`, `Closed PnL`, `Side`, `Account`, etc.
+   - [Historical Trader Data](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view)
 
 ##  Analysis Performed
 
