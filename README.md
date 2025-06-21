@@ -46,7 +46,7 @@ Market sentiment has a strong influence on trading behavior and profitability. U
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Afraa Sulaiha S**  
-_Data Science Enthusiast | AI & Web3 Explorer_
+*UG Student | AI & Data Science Enthusiast*
